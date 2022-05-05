@@ -7,3 +7,5 @@ servir para comprobar que los datos son coherentes, no utilizaremos estas gráfi
 con el mismo nombre que nuestro archivo.
 
 En el programa "regresion" tenemos distintas funciones usadas mayoritariamente en el programa "analisis2".
+
+En la carpeta "chip_definitivo" tenemos el programa y funciones utilizadas por el arduino.
